@@ -1,0 +1,6 @@
+﻿command key:1 value
+SET key:2 https
+GET key:3
+PUSH
+ 
+TEST  key:4         value
