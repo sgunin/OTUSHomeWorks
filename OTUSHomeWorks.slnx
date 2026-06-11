@@ -3,4 +3,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="HomeWork01/HomeWork01.csproj" />
+  <Project Path="HomeWork02/HomeWork02.csproj" Id="0c2ee4f5-65a7-4bef-82e3-d596b891f62e" />
 </Solution>
